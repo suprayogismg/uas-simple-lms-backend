@@ -22,3 +22,10 @@ JWT expired
 RBAC berfungsi
 Redis cache terpakai
 Session tersimpan di Redis
+
+## Cara Mulai
+1. Fork repository ini
+2. Clone ke lokal
+3. Buat virtual environment
+4. Install dependencies
+5. Lengkapi fitur sesuai instruksi UAS
